@@ -29,7 +29,7 @@ I introduced a moderate sweep angle to cut drag and kept the higher camber from 
 
 **Problem:** Drag dropped, but the combination shifted the mean camber line enough to make the wing unstable at the target angle of attack.
 
-### Wing 4 — Bubbledancer (Final)
+### Wing 4 - Bubbledancer (Final)
 I brought the camber back down slightly, kept the swept design, and adjusted the chord line to restore stability at the design angle of attack.
 
 **Why it worked:** The slightly lower camber kept the drag reduction from Wing 3. The adjusted mean camber line restored a stable lift distribution at the intended angle of attack. Together they gave me the best lift-to-drag balance of the four.
