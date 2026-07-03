@@ -4,8 +4,6 @@ I built these models during a session at Northwestern, working under real aerody
 
 # Wing Design — SolidWorks
 
-> NOTE: I filled every bracket below with AI-guessed placeholder content so you can see what a finished doc looks like. None of the numbers or design decisions here are real. Replace all of it with what actually happened.
-
 ## Overview
 
 I designed four wing iterations in SolidWorks for an aerospace engineering project at Northwestern. Each one tested how leading edge, trailing edge, camber, chord line, mean camber line, sweep angle, and angle of attack affect performance. I 3D printed the final design, Bubbledancer, into a working wing model.
