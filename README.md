@@ -76,11 +76,11 @@ Outside of the SolidWorks work, the Northwestern session included talks with peo
 
 ## Files in This Repo
 
-- `AG25 Bubble Dancer DLG_Damon.SLDPRT` — final Bubbledancer SolidWorks part file
-- `Bubble Glider Left/Right.SLDPRT`, `Conscendo_Left/Right.SLDPRT`, `Radian_Left/Right.SLDPRT`, `Reverse_Left/Right.SLDPRT` — earlier prototype wing/glider variants, designed but not printed
-- `Wings 3D 1-3.jpeg`, `Solidworks Photo 1-3.jpeg` — SolidWorks renders and design process photos
-- `3D Improved Wing 1-4.jpeg`, `3D Improved Plane 1.jpeg` — the rebuilt, post-test version of Bubbledancer
-- `Workshop Pic 1-2.jpeg`, `Class Photo.jpeg` — program photos
-- `Interview (SpaceX and Boeing Worker from NW Uni).jpeg` — from my interview with an aerospace industry professional during the program
-- `IMG_4639.MOV`, `IMG_4640.MOV` — video footage
-- `AG25 Bubble DancerDamon_project_folders.html` — project folder export
+- `AG25 Bubble Dancer DLG_Damon.SLDPRT` - final Bubbledancer SolidWorks part file
+- `Bubble Glider Left/Right.SLDPRT`, `Conscendo_Left/Right.SLDPRT`, `Radian_Left/Right.SLDPRT`, `Reverse_Left/Right.SLDPRT` - earlier prototype wing/glider variants, designed but not printed
+- `Wings 3D 1-3.jpeg`, `Solidworks Photo 1-3.jpeg` - SolidWorks renders and design process photos
+- `3D Improved Wing 1-4.jpeg`, `3D Improved Plane 1.jpeg` - the rebuilt, post-test version of Bubbledancer
+- `Workshop Pic 1-2.jpeg`, `Class Photo.jpeg` - program photos
+- `Interview (SpaceX and Boeing Worker from NW Uni).jpeg` - from my interview with an aerospace industry professional during the program
+- `IMG_4639.MOV`, `IMG_4640.MOV` - video footage
+- `AG25 Bubble DancerDamon_project_folders.html` - project folder export
